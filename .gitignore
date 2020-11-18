@@ -144,3 +144,9 @@ gradle-app.setting
 # End of https://www.toptal.com/developers/gitignore/api/java,gradle,eclipse
 
 *.pyc
+
+gradle/
+gradlew/
+gradlew.*
+.IDEA
+gradlew
